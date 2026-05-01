@@ -1,25 +1,35 @@
-# 📚 Library Management System
+# 📚 Library Management System (C++)
 
 ## 📌 Description
-This is a Library Management System built in C++ using OOP concepts like inheritance and polymorphism. It supports file handling and menu-driven operations.
+This project is a **Library Management System** developed in C++ using **Object-Oriented Programming (OOP)** concepts like inheritance and polymorphism.  
+It provides a **menu-driven interface** for managing library operations efficiently.
+
+The system supports file handling to store data permanently and includes optimized search techniques using Data Structures.
 
 ---
 
 ## 🚀 Features
-- Add / Remove Books
-- Issue / Return Books
-- File Handling (.dat)
-- Menu-driven Interface
+- 📖 Add Book
+- ❌ Remove Book
+- 🔍 Search Book (BST / Hashing)
+- 📥 Issue Book
+- 📤 Return Book
+- 💾 File Handling (.dat)
+- 🧭 Menu-Driven Interface
+- ⚠️ Error Handling for invalid input
+
+---
+
+## 🛠️ Technologies Used
+- C++
+- OOP Concepts
+- File Handling
+- Data Structures (BST / Hashing)
 
 ---
 
 ## ⚙️ How to Run
-1. Compile:
-   g++ main.cpp -o library
 
-2. Run:
-   ./library
-
----
-
-
+### Step 1: Compile the program
+```bash
+g++ main.cpp -o library

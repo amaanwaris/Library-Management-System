@@ -22,12 +22,4 @@ This is a Library Management System built in C++ using OOP concepts like inherit
 
 ---
 
-## 🖥️ Sample Output
-(Add screenshots here later)
 
----
-
-## 🔥 Future Improvements
-- Use Binary Search Tree (BST) for fast search
-- Add Hashing
-- Improve UI

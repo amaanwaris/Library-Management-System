@@ -1,2 +1,33 @@
-# Library-Management-System
-Library Management System in C++ using OOP concepts like inheritance and polymorphism. Features include file handling (.dat), item management, and check-in/check-out system with a menu-driven interface for efficient library operations.
+# 📚 Library Management System
+
+## 📌 Description
+This is a Library Management System built in C++ using OOP concepts like inheritance and polymorphism. It supports file handling and menu-driven operations.
+
+---
+
+## 🚀 Features
+- Add / Remove Books
+- Issue / Return Books
+- File Handling (.dat)
+- Menu-driven Interface
+
+---
+
+## ⚙️ How to Run
+1. Compile:
+   g++ main.cpp -o library
+
+2. Run:
+   ./library
+
+---
+
+## 🖥️ Sample Output
+(Add screenshots here later)
+
+---
+
+## 🔥 Future Improvements
+- Use Binary Search Tree (BST) for fast search
+- Add Hashing
+- Improve UI
